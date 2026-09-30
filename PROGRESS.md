@@ -9,6 +9,7 @@
 | 30/09 | Longest Common Prefix | Arrays & Strings | Easy-Medium | ✅ Solved | 15 min |
 | 30/09 | Binary Search | Basic Algorithms | Easy-Medium | ✅ Solved | 15 min |
 | 30/09 | Move Zeroes | Basic Algorithms | Easy-Medium | ✅ Solved | 15 min |
+| 30/09 | Valid Parentheses | Stacks | Easy-Medium | ✅ Solved | 15 min |
 
 
 
